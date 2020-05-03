@@ -1,0 +1,1 @@
+# To-find-out-the-prime-numbers-in-an-array-in-C-programming
